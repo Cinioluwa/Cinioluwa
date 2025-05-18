@@ -1,4 +1,6 @@
-![Cyberpunk Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVtbTI1ZzA5cmY1ZXM1amZ4NnJsNm1saDJ6N2trdjMzN2twNmg5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vBzOoyWjILSetTtHyL/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kaHpzamhlamt2emJmbmVwOHV4OGEycDlrNDgyMGo4bHgwOGtuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBzOoyWjILSetTtHyL/giphy.gif" width="100%" alt="Cyberpunk Banner">
+</p>
 
 # 👾 Covenant Adeogo (CIA)
 
