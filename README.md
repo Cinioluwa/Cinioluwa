@@ -2,20 +2,36 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kaHpzamhlamt2emJmbmVwOHV4OGEycDlrNDgyMGo4bHgwOGtuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBzOoyWjILSetTtHyL/giphy.gif" width="100%" alt="Cyberpunk Banner">
 </p>
 
-# 👾 Covenant Adeogo (CIA)
+<div align="center">
+
+# 👾 Covenant Adeogo (CIA) 👾
 
 ### 🧠 Knowledge Bounty Hunter | 🛠️ Software Developer | 🕶️ Cybersecurity Enthusiast
 
 > *"In a world of code and chaos, I forge solutions that illuminate the digital frontier."*
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/covenant-a-b87988260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:covkey13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://cinioluwa.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
-### 🧬 About Me
+### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25px"> About Me
 
 I'm a Computer Engineering student at Covenant University, Nigeria, passionate about crafting innovative solutions that enhance systems. My journey traverses:
 
 - 🖥️ **Software Development**: Building responsive applications with Python and Flutter.
-- 🌐 Web Development: Creating interactive, responsive websites using HTML, CSS, JavaScript.
+- 🌐 **Web Development**: Creating interactive, responsive websites using HTML, CSS, JavaScript.
 - 🎨 **UI/UX Design**: Designing intuitive interfaces using Figma.
 - 🛡️ **Cybersecurity**: Exploring the realms of digital security to protect and empower users.
 
@@ -23,45 +39,39 @@ I'm a Computer Engineering student at Covenant University, Nigeria, passionate a
 
 ### 🛠️ Tech Arsenal
 
-![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-0f0f0f?style=flat&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-0f0f0f?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-0f0f0f?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-0f0f0f?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-0f0f0f?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-0f0f0f?style=flat&logo=adobe-photoshop&logoColor=white)
+<p align="center">
+  <code><img width="50%" src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,ps&perline=8&theme=dark" alt="Skills" /></code>
+</p>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, HTML5, CSS3 |
+| **Frameworks & Libraries** | Flutter, PyGame |
+| **Tools & Platforms** | Git, Figma, Adobe Photoshop |
 
 ---
 
 ### 🚀 Projects & Endeavors
 
-- **[Pion Website](https://boyd7818.hocoos.com/)**: Showcasing renewable energy solutions with high-energy supercapacitors.
-- **[Pict-o-Word App](https://github.com/Femitun/pict-o-word)**: A word-guessing game built with Pygame.
-- **[Synthwave Piano Web App](https://github.com/Cinioluwa/piano)**: An interactive musical instrument simulator.
-- **[Web-Ollama](https://github.com/Cinioluwa/web-ollama)**: Interface for interacting with locally-hosted LLMs.
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Web-Ollama** | An intuitive web interface for interacting with Large Language Models (LLMs) running locally via Ollama. | `Python` `JavaScript` `HTML` | [Repo](https://github.com/Cinioluwa/web-ollama) |
+| **Synthwave Piano** | An interactive synthwave-themed piano simulator built for the web. Play music right in your browser! | `JavaScript` `HTML` `CSS` | [Repo](https://github.com/Cinioluwa/piano) |
+| **Pict-o-Word** | A fun, graphical word-guessing game where players decipher a word from a series of images, built with Pygame. | `Python` `PyGame` | [Repo](https://github.com/Femitun/pict-o-word) |
+| **Pion Website** | A showcase site for a renewable energy startup, highlighting innovative high-energy supercapacitors. | `HTML` `CSS` | [Live Site](https://boyd7818.hocoos.com/) |
 
 ---
 
-### 📜 Certifications
+<details>
+<summary>📜 View My Certifications</summary>
+<br>
 
-- 🛠️ Cisco: IT Essentials
-- 🧠 OBTranslate: Prompt Engineering
-- 🌐 CCNAv7: Introduction to Networks
-- 🔒 Cisco: Networking Basics
+- **🛠️ Cisco:** IT Essentials
+- **🧠 OBTranslate:** Prompt Engineering
+- **🌐 CCNAv7:** Introduction to Networks
+- **🔒 Cisco:** Networking Basics
 
----
-
-### 📈 GitHub Stats
-
-![CIA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cinioluwa&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: [covkey13@gmail.com](mailto:covkey13@gmail.com)
-- 🌐 Portfolio: [cinioluwa.github.io/Portfolio](https://cinioluwa.github.io/Portfolio)
+</details>
 
 ---
 
