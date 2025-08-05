@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kaHpzamhlamt2emJmbmVwOHV4OGEycDlrNDgyMGo4bHgwOGtuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBzOoyWjILSetTtHyL/giphy.gif" width="100%" alt="Cyberpunk Banner">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kaHpzamhlamt2emJmbmVwOHV4OGEycDlrNDgyMGo4bHgwOGtuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBzOoyWjILSetTtHyL/giphy.gif" width="100%" alt="Banner">
 </p>
 
 <div align="center">
 
-# 👾 Covenant Adeogo (CIA) 👾
+# Covenant Adeogo (CIA)
 
-### 🧠 Knowledge Bounty Hunter | 🛠️ Software Developer | 🕶️ Cybersecurity Enthusiast
+Knowledge Bounty Hunter | Software Developer | Cybersecurity Enthusiast
 
-> *"In a world of code and chaos, I forge solutions that illuminate the digital frontier."*
+> In a world of code and chaos, I forge solutions that illuminate the digital frontier.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/covenant-a-b87988260/" target="_blank">
@@ -26,53 +26,49 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25px"> About Me
+## About Me
 
-I'm a Computer Engineering student at Covenant University, Nigeria, passionate about crafting innovative solutions that enhance systems. My journey traverses:
-
-- 🖥️ **Software Development**: Building responsive applications with Python and Flutter.
-- 🌐 **Web Development**: Creating interactive, responsive websites using HTML, CSS, JavaScript.
-- 🎨 **UI/UX Design**: Designing intuitive interfaces using Figma.
-- 🛡️ **Cybersecurity**: Exploring the realms of digital security to protect and empower users.
+I am a third-year Computer Engineering student at Covenant University, Nigeria. I build web and desktop applications, explore cybersecurity, and design user-centric interfaces. My passion lies in taking emerging technologies—AI, embedded systems, automation—and turning them into practical tools.
 
 ---
 
-### 🛠️ Tech Arsenal
+## Tech Stack
 
 <p align="center">
-  <code><img width="50%" src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,ps&perline=8&theme=dark" alt="Skills" /></code>
+  <img src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,ps&perline=8&theme=dark" alt="Skills" />
 </p>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, JavaScript, HTML5, CSS3 |
-| **Frameworks & Libraries** | Flutter, PyGame |
-| **Tools & Platforms** | Git, Figma, Adobe Photoshop |
+| Category                | Technologies                        |
+|-------------------------|-------------------------------------|
+| Languages               | Python, JavaScript, HTML5, CSS3     |
+| Frameworks & Libraries  | Flutter, Flask, CustomTkinter       |
+| Tools & Platforms       | Git, Vercel, Docker, Figma, Adobe PS|
 
 ---
 
-### 🚀 Projects & Endeavors
+## Selected Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **Web-Ollama** | An intuitive web interface for interacting with Large Language Models (LLMs) running locally via Ollama. | `Python` `JavaScript` `HTML` | [Repo](https://github.com/Cinioluwa/web-ollama) |
-| **Synthwave Piano** | An interactive synthwave-themed piano simulator built for the web. Play music right in your browser! | `JavaScript` `HTML` `CSS` | [Repo](https://github.com/Cinioluwa/piano) |
-| **Pict-o-Word** | A fun, graphical word-guessing game where players decipher a word from a series of images, built with Pygame. | `Python` `PyGame` | [Repo](https://github.com/Femitun/pict-o-word) |
-| **Pion Website** | A showcase site for a renewable energy startup, highlighting innovative high-energy supercapacitors. | `HTML` `CSS` | [Live Site](https://boyd7818.hocoos.com/) |
+| Project                       | Description                                                                                     | Tech Stack                            | Link                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------------------------------------|
+| Eldaneth                      | Corporate site for family business, deployed with Vercel and built in Next.js and Tailwind CSS | HTML, CSS, JavaScript, Vercel      | [Live](https://eldaneth.vercel.app) • [Repo](https://github.com/Cinioluwa/eldaneth)       |
+| GemJudge                      | Windows desktop app for AI-powered chatbot evaluation, outputs ranked feedback in Markdown     | Python, CustomTkinter, Gemini API     | [Download Release](https://github.com/Cinioluwa/GemJudge/releases/latest) • [Repo](https://github.com/Cinioluwa/GemJudge) |
+| Semantic Book Recommender     | Flask-based recommender using sentence-transformers for semantic similarity of book descriptions | Python, Flask, Sentence-Transformers  | [Repo](https://github.com/Cinioluwa/semantic-book-recommender)       |
+| Web-Ollama                    | Local LLM web interface using Gradio to interact with Ollama models                             | Python, Gradio, JavaScript, HTML      | [Repo](https://github.com/Cinioluwa/web-ollama)                      |
+| Learning Progress Tracker     | Desktop app to log learning metrics, calculate points, and visualize progress with Excel export  | Python, Tkinter, Pandas               | [Download Release](https://github.com/Cinioluwa/tracker/releases/latest) • [Repo](https://github.com/Cinioluwa/tracker) |
+| Synthwave Piano               | Browser-based synthwave-themed piano demonstrating JS event handling and audio APIs              | JavaScript, HTML, CSS                 | [Live](https://cinioluwa.github.io/piano) • [Repo](https://github.com/Cinioluwa/synthwave-piano)       |
+| Portfolio Website             | Personal portfolio showcasing projects, blog posts, and contact information                    | HTML, CSS, JavaScript                 | [Live](https://cinioluwa.github.io/Portfolio) • [Repo](https://github.com/Cinioluwa/Portfolio) |
 
 ---
 
 <details>
-<summary>📜 View My Certifications</summary>
-<br>
+<summary>Certifications</summary>
 
-- **🛠️ Cisco:** IT Essentials
-- **🧠 OBTranslate:** Prompt Engineering
-- **🌐 CCNAv7:** Introduction to Networks
-- **🔒 Cisco:** Networking Basics
-
+- Cisco: IT Essentials  
+- OBTranslate: Prompt Engineering  
+- Cisco: Introduction to Networks (CCNA v7)  
+- Cisco: Networking Basics  
 </details>
 
 ---
 
-> *"The code is my canvas; the keyboard, my brush."*
+> The code is my canvas; the keyboard, my brush.
