@@ -35,14 +35,14 @@ I am a third-year Computer Engineering student at Covenant University, Nigeria. 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,ps&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,java,ps&perline=8&theme=dark" alt="Skills" />
 </p>
 
 | Category                | Technologies                        |
 |-------------------------|-------------------------------------|
-| Languages               | Python, JavaScript, HTML5, CSS3     |
+| Languages               | Python, JS, HTML5, CSS3, Java, C    |
 | Frameworks & Libraries  | Flutter, Flask, CustomTkinter       |
-| Tools & Platforms       | Git, Vercel, Docker, Figma, Adobe PS|
+| Tools & Platforms       | Git, Vercel, Netlify, Figma, Adobe PS|
 
 ---
 
