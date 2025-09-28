@@ -28,21 +28,21 @@ Knowledge Bounty Hunter | Software Developer | Cybersecurity Enthusiast
 
 ## About Me
 
-I am a third-year Computer Engineering student at Covenant University, Nigeria. I build web and desktop applications, explore cybersecurity, and design user-centric interfaces. My passion lies in taking emerging technologies—AI, embedded systems, automation—and turning them into practical tools.
+I am a fourth-year Computer Engineering student at Covenant University, Nigeria. I build web and desktop applications, explore cybersecurity, and design user-centric interfaces. My passion lies in taking emerging technologies—AI, embedded systems, automation—and turning them into practical tools.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flutter,js,html,css,figma,git,java,ps&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,figma,c,git,java,ps&perline=8&theme=dark" alt="Skills" />
 </p>
 
-| Category                | Technologies                        |
-|-------------------------|-------------------------------------|
-| Languages               | Python, JS, HTML5, CSS3, Java, C    |
-| Frameworks & Libraries  | Flutter, Flask, CustomTkinter       |
-| Tools & Platforms       | Git, Vercel, Netlify, Figma, Adobe PS|
+| Category                | Technologies                                   |
+|-------------------------|-------------------------------------           |
+| Languages               | Python, JS, HTML5, CSS3, Java, C               |
+| Frameworks & Libraries  | Java Swing, JavaFX, Flask, CustomTkinter       |
+| Tools & Platforms       | Git, Vercel, Netlify, Figma, Adobe Photoshop   |
 
 ---
 
@@ -62,7 +62,7 @@ I am a third-year Computer Engineering student at Covenant University, Nigeria. 
 
 <details>
 <summary>Certifications</summary>
-
+- Frontend Masters: Java Fundamentals
 - Cisco: IT Essentials  
 - OBTranslate: Prompt Engineering  
 - Cisco: Introduction to Networks (CCNA v7)  
