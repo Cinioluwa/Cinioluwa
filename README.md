@@ -6,7 +6,7 @@
 
 # Covenant Adeogo (CIA)
 
-Knowledge Bounty Hunter | Software Developer | Simulations Enthusiast
+Knowledge Bounty Hunter | Full Stack Engineer | IoT and Automations
 
 > The 20xer.
 
@@ -34,27 +34,14 @@ I am a fourth-year student in Computer Engineering at Covenant University, Niger
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,figma,c,git,java,ps&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,py,java,git,docker,n8n&perline=8&theme=dark" alt="Skills" />
 </p>
 
 | Category                | Technologies                                             |
 |-------------------------|----------------------------------------------------------|
-| Languages               | Java, C, HTML5, CSS3, Python, JavaScript                 |
-| Frameworks & Libraries  | Java Swing, JavaFX, Flask, CustomTkinter                 |
-| Tools & Platforms       | Git, Vercel, Netlify, Figma, Photoshop, Docker, Postman  |
-
----
-
-<details>
-<summary>Certifications</summary>
-  <ul type="i">
-    <li>- Frontend Masters: Java Fundamentals</li>
-    <li>- Cisco: IT Essentials</li>
-    <li>- OBTranslate: Prompt Engineering</li>
-    <li>- Cisco: Introduction to Networks (CCNA v7)</li>
-    <li>- Cisco: Networking Basics</li>  
-  </ul>
-</details>
+| Frontend & UI           | HTML5, CSS3, JS, React, Figma, JavaFX                    |
+| Backend & Services      | Python, Java, Node.js, Express                           |
+| DBs & Orchestrations    | PostgreSQL, Prisma ORM, Docker, Vercel, n8n              |
 
 ---
 
