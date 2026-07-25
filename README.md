@@ -28,20 +28,20 @@ Knowledge Bounty Hunter | Full Stack Engineer | IoT and Automations
 
 ## About Me
 
-I am a fourth-year student in Computer Engineering at Covenant University, Nigeria. What I'm interested in is understanding the hood of systems, and I'm gonna learn as much as I need to, as long as it's relevant to my pursuit. Programming is one of those tools I'll need. ~KnowledgeBountyHunting~
+I am a final-year student in Computer Engineering at Covenant University, Nigeria. What I'm interested in is understanding the hood of systems, and I'm gonna learn as much as I need to, as long as it's relevant to my pursuit. Programming is one of those tools I'll need. ~KnowledgeBountyHunting~
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,py,java,git,docker,n8n&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,py,java,git,docker,n8n&perline=8&theme=dark" alt="Skills" />
 </p>
 
 | Category                | Technologies                                             |
 |-------------------------|----------------------------------------------------------|
-| Frontend & UI           | HTML5, CSS3, JS, React, Figma, JavaFX                    |
+| Frontend & UI           | HTML5, CSS3, JS, Figma, JavaFX                           |
 | Backend & Services      | Python, Java, Node.js, Express                           |
-| DBs & Orchestrations    | PostgreSQL, Prisma ORM, Docker, Vercel, n8n              |
+| DBs & Orchestrations    | PostgreSQL, Prisma, Drizzle, Docker, Vercel, n8n         |
 
 ---
 
